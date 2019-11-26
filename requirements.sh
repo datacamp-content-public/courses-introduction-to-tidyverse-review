@@ -37,6 +37,9 @@
 # sudo add-apt-repository -y ppa:opencpu/imagemagick
 # apt-get update && apt-get install --yes libmagick++-dev
 
+# cargo, for any pkgs using Rust, particularly gifski (needed by gganimate) and svgbob
+# apt-get update && apt-get install --yes cargo
+
 # Most spatial things below need GIS repo
 # add-apt-repository --yes ppa:ubuntugis/ubuntugis-unstable
 
